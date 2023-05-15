@@ -1,8 +1,9 @@
-# Rock, paper, scissors
-(inlämning uppgift för kurs: Cloud Native Computing)
+# Inlämning uppgift för kurs: Cloud Native Computing
+Learn "Cloud Native Computing" by coding.
 
-## About
+## Rock, paper, scissors
 “Rock paper scissors” is a simple and interesting game. Many of us used to play it in a school to resolve disputes or just to spend some time.
+
 ## What are the rules?
 The rules are very simple and probably you remember them from your childhood:
 
